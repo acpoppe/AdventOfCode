@@ -1,3 +1,14 @@
+*.DS_Store
+*.xcodeproj
+*.pjxproj
+*.xcworkspace
+*.xcworkspace/
+*.xcworkspacedata
+*.plist
+*.xcuserdata
+*.xcuserstate
+*Build/
+
 # Prerequisites
 *.d
 
