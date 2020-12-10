@@ -10,3 +10,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 1 | Day 1: Report Repair | [Day 1](https://adventofcode.com/2020/day/1) | Swift |
 | 1b | Day 1: Report Repair Part Two | [Day 1b](https://adventofcode.com/2020/day/1#part2) | Swift |
 | 2 | Day 2: Password Philosophy | [Day 2](https://adventofcode.com/2020/day/2) | Swift |
+| 2b | Day 2: Password Philosophy Part Two | [Day 2b](https://adventofcode.com/2020/day/2#part2) | Swift |
